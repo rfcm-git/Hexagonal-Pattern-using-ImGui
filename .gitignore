@@ -1,0 +1,20 @@
+/HexagonalPattern/hexagonal_pattern.bmp
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build outputs
+x64/
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb
+
+# Logs
+*.log
+
+# Other unnecessary files
+Thumbs.db
+*.tmp
